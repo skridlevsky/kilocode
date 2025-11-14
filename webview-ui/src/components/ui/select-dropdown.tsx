@@ -1,7 +1,7 @@
 import * as React from "react"
 import { CaretUpIcon } from "@radix-ui/react-icons"
 import { Check, X } from "lucide-react"
-import { Fzf } from "fzf"
+import { Fzf } from "@/lib/word-boundary-fzf"
 import { useTranslation } from "react-i18next"
 
 import { cn } from "@/lib/utils"
