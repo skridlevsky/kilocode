@@ -1,8 +1,6 @@
 # kilo-code
 
-## 4.119.5
-
-### Patch Changes
+## [v4.119.5]
 
 - [#3613](https://github.com/Kilo-Org/kilocode/pull/3613) [`feda236`](https://github.com/Kilo-Org/kilocode/commit/feda2361b66a11cb2d5766dc2f0fd56e716de03e) Thanks [@mcowger](https://github.com/mcowger)! - Enable native tool calling for LiteLLM provider
 
